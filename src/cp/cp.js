@@ -1,4 +1,4 @@
-import { spawn, execFile, fork } from 'node:child_process';
+import { fork } from 'node:child_process';
 
 const FILE_PATH = './src/cp/files/script.js';
 
